@@ -11,7 +11,7 @@ const NAV_MENU = [
   {
     name: "Resume",
     icon: RectangleStackIcon,
-    href: "https://docs.google.com/document/d/1yGqyj63KuKWhMQrEivfvMMPuzYxFg0kIe3V-6oNRwXM/edit?usp=sharing"
+    href: "https://docs.google.com/document/d/1TBffK7JttzddNTYEtKCRFG9QGVhoapWS3F5LmIGn4KE/edit?usp=sharing"
   },
   {
     name: "LinkedIn",

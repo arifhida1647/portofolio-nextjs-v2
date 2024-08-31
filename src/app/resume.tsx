@@ -32,7 +32,7 @@ export function Resume() {
             Highly skilled Product Manager with 1 year of experience in crafting visually stunning and functionally rich systems, and a Computer Science student.
           </p>
           <a
-            href="https://docs.google.com/document/d/1yGqyj63KuKWhMQrEivfvMMPuzYxFg0kIe3V-6oNRwXM/edit"
+            href="https://docs.google.com/document/d/1TBffK7JttzddNTYEtKCRFG9QGVhoapWS3F5LmIGn4KE/edit?usp=sharing"
             className="inline-flex items-center gap-2 text-gray-900 hover:text-gray-700"
           >
             <span>View More</span>

@@ -4,7 +4,7 @@ export function FixedPlugin() {
   return (
     <button
       className="fixed bottom-4 right-4 flex items-center gap-2 px-4 py-2 bg-white border border-gray-300 rounded-full shadow-lg hover:bg-gray-100 transition-colors"
-      onClick={() => window.location.href = 'https://docs.google.com/document/d/1yGqyj63KuKWhMQrEivfvMMPuzYxFg0kIe3V-6oNRwXM/edit'}
+      onClick={() => window.location.href = 'https://docs.google.com/document/d/1TBffK7JttzddNTYEtKCRFG9QGVhoapWS3F5LmIGn4KE/edit?usp=sharing'}
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
