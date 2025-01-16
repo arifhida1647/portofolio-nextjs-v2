@@ -19,7 +19,7 @@ const SKILLS = [
   },
   {
     icon: FingerPrintIcon,
-    title: "Mobile App Development",
+    title: "Quality Assurance",
   },
   {
     icon: HashtagIcon,
@@ -31,7 +31,7 @@ const SKILLS = [
   },
   {
     icon: DocumentTextIcon,
-    title: "Business or System Analyst",
+    title: "System Analyst",
   },
 ];
 

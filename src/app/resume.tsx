@@ -9,7 +9,7 @@ import { ResumeItem } from "@/components";
 const RESUME_ITEMS = [
   {
     icon: ChartBarIcon,
-    children: "Computer Science Student",
+    children: "Software Quality Assurance Intern At Satudental Group",
   },
   {
     icon: PuzzlePieceIcon,
@@ -17,7 +17,7 @@ const RESUME_ITEMS = [
   },
   {
     icon: CursorArrowRaysIcon,
-    children: "Freelancer Website Development",
+    children: "Web Operation Intern At PT Gtech Digital Asia",
   },
 ];
 
@@ -32,7 +32,7 @@ export function Resume() {
             Highly skilled Product Manager with 1 year of experience in crafting visually stunning and functionally rich systems, and a Computer Science student.
           </p>
           <a
-            href="https://docs.google.com/document/d/1TBffK7JttzddNTYEtKCRFG9QGVhoapWS3F5LmIGn4KE/edit?usp=sharing"
+            href="https://drive.google.com/file/d/13XQkO_8KJ4bBoNLHi-IQItAceWjzBFdo/view?usp=sharing"
             className="inline-flex items-center gap-2 text-gray-900 hover:text-gray-700"
           >
             <span>View More</span>

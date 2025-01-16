@@ -27,12 +27,12 @@ export function ContactForm() {
               </p>
               <div className="flex items-center gap-5 mb-5">
                 <PhoneIcon className="h-6 w-6 text-white" />
-                <p className="text-lg text-white">+62(856) 9509 1825</p>
+                <p className="text-lg text-white">+6285695091825</p>
               </div>
               <div className="flex items-center gap-5 mb-5">
                 <EnvelopeIcon className="h-6 w-6 text-white" />
                 <p className="text-lg text-white">
-                  arifhidayat@arifhida.my.id
+                  arifhida1647@gmail.com
                 </p>
               </div>
               <div className="flex items-center gap-5">

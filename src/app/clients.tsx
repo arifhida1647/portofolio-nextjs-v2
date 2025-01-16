@@ -5,6 +5,7 @@ import Image from "next/image";
 const CLIENTS = [
   "Kalbe",
   "Gtech",
+  "satudental",
 ];
 
 export function Clients() {
@@ -12,7 +13,7 @@ export function Clients() {
     <section className="px-8 py-28">
       <div className="container mx-auto text-center">
         <h6 className="text-blue-gray-900 mb-8 text-xl font-semibold">
-          Internship Experience Company
+          My Experience Company
         </h6>
         <div className="flex flex-wrap items-center justify-center gap-6">
           {CLIENTS.map((logo, key) => (
