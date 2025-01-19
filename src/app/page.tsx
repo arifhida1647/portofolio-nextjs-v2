@@ -9,6 +9,7 @@ import Projects from "./projects";
 import Resume from "./resume";
 import PopularClients from "./popular-clients";
 import ContactForm from "./contact-form";
+import Article from "./article";
 
 export default function Portfolio() {
   return (
@@ -20,6 +21,7 @@ export default function Portfolio() {
       <Projects />
       <PopularClients />
       <Resume />
+      <Article />
       <ContactForm />
       <Footer />
     </>
