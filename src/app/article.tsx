@@ -13,9 +13,9 @@ export function Article() {
                 <div className="col-span-1">
                     <h2 className="text-3xl font-bold text-gray-900">My Publication</h2>
                     <p className="mt-3 mb-4 w-9/12 text-base text-gray-500">
-                         PEMROGRAMAN APLIKASI MOBILE E-WALLET “FULUS” BERBASIS SERVICE EXPRESS JS
+                         PEMROGRAMAN APLIKASI MOBILE E-WALLET “FULUS” BERBASIS SERVICE EXPRESS JS <br />
+                         Jurnal Ilmu Komputer · Aug 30, 2024
                     </p>
-                    <p>Jurnal Ilmu Komputer · Aug 30, 2024</p>
                     <a
                         href="https://ejournal.upnvj.ac.id/informatik/article/view/8156"
                         className="inline-flex items-center gap-2 text-gray-900 hover:text-gray-700"
