@@ -21,14 +21,14 @@ const PROJECTS = [
     img: "https://portofolio-temp.vercel.app/images/porto-4.jpg",
     title: "Website SenaksLab Laundry",
     desc: "This website is designed for payment system and purchase of laundry services. Made with PHP Codeigniter",
-    hrefLive: 'https://sneakslab-admin.my.id/',
+    hrefLive: 'https://sneaklab-frontend-production.up.railway.app/',
     hrefGithub: 'https://github.com/arifhida1647/senaklab-frontend.git',
   },
   {
     img: "https://portofolio-temp.vercel.app/images/porto-6.jpg",
     title: "Wesbite Dashboard Sneaklab",
     desc: "This website is designed for the dashboard of the sneaklab website. Made with PHP Codeigniter",
-    hrefLive: 'https://dashboard.sneakslab-admin.my.id/',
+    hrefLive: 'https://sneaklabproject-production.up.railway.app/',
     hrefGithub: 'https://github.com/arifhida1647/sneaklab_project.git',
   },
   {
