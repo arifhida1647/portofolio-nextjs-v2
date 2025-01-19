@@ -35,7 +35,7 @@ const PROJECTS = [
     img: "https://portofolio-temp.vercel.app/images/porto-7.png",
     title: "Wesbite Dashboard Point Of Sale",
     desc: "This website is designed for buying and selling and managing stock in a shop. Made with PHP Codeigniter",
-    hrefLive: 'https://tokosembakoleon.my.id/',
+    hrefLive: 'https://tokokelontongleon-production.up.railway.app/',
     hrefGithub: 'https://github.com/arifhida1647/sneaklab_project.git',
   },
   {
