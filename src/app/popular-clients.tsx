@@ -9,6 +9,8 @@ const CLIENTS = [
   "tailwind",
   "bootstrap",
   "android-studio",
+  'Jira',
+  'Atlassian'
 ];
 
 export function PopularClients() {

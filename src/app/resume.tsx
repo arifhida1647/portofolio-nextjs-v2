@@ -13,7 +13,7 @@ const RESUME_ITEMS = [
   },
   {
     icon: PuzzlePieceIcon,
-    children: "Product Manager Intern In PT Kalbe Farma Tbk",
+    children: "Product Manager Intern At PT Kalbe Farma Tbk",
   },
   {
     icon: CursorArrowRaysIcon,

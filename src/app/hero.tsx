@@ -11,11 +11,7 @@ function Hero() {
             Welcome to my Portfolio!
           </h1>
           <p className="mb-4 text-gray-500 md:pr-16 xl:pr-28">
-            I&apos;m Arif Hidayat, a technology enthusiast with a strong interest in
-            both development and analysis. I enjoy exploring the latest
-            advancements in the tech industry and am passionate about creating
-            innovative solutions and gaining insights through Business Analyst
-            or System Analyst.
+            I am Arif Hidayat, an Informatics student at the Faculty of Computer Science with a strong interest in IT, particularly in Product Development, Software QA, and Product Improvement. I have experience in Development, Product, and QA, ensuring high-quality software through testing, debugging, and optimization. Passionate about enhancing product performance and user experience, I thrive in improving workflows and ensuring efficient software development. With a keen eye for detail and a problem-solving mindset, I am eager to grow, learn, and contribute to the tech industry by developing and refining high-quality digital products.
           </p>
         </div>
         <Image
